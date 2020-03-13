@@ -1,4 +1,4 @@
-package com.javabagin;
+package com.javabagin.basic;
 
 /**
  * 测试标识符的用法

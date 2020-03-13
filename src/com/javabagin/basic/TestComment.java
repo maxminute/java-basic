@@ -1,4 +1,4 @@
-package com.javabagin;
+package com.javabagin.basic;
 
 /**
  * 用来测试注释的用法（包含：多行注视、单行注释、文档注释）
