@@ -1,4 +1,4 @@
-package com.javabagin.loop;
+package com.javabagin.control.loop;
 
 /**
  * 测试continue continue用于结束本次循环，继续下一次循环

@@ -1,4 +1,4 @@
-package com.javabagin.loop;
+package com.javabagin.control.loop;
 
 /**
  * 测试递归

@@ -1,4 +1,4 @@
-package com.javabagin.loop;
+package com.javabagin.control.loop;
 
 /**
  * 带标签的break和continue
